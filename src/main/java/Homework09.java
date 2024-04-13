@@ -5,7 +5,7 @@
 
 /**
  *
- * @author MoaathAlrajab
+ * @author LailaChoudhry
  */
 
 import java.util.LinkedList;
@@ -51,6 +51,8 @@ public class Homework09 {
         return divisors; 
     }
 }
+// The first triangular number with over one hundred divisors is: 73920
+
 
     // ToDo 01:  Write an algorithm to solve the following problem
     /*
@@ -69,7 +71,7 @@ Let us list the factors of the first seven triangle numbers:
 28: 1,2,4,7,14,28
 We can see that 28 is the first triangle number to have over five divisors.
 
-What is the value of the first triangle number to have over one hundred divisors?
+What is the value of the first triangle number to have over one hundred divisors? The first triangular number with over one hundred divisors is: 73920
     
     */
     
